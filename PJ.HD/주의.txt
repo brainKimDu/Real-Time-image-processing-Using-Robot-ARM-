@@ -1,0 +1,7 @@
+ProjectHD_2D
+HandTrackingHD_3D
+ProjectHD_HandTracking_3D
+의 ARD가 주석처리되있을 수 있음 실 적용 시 ARD의 주석처리를 해제하기 바람
+
+
+어느것이 정상 작동 코드인지 찾을 수 없습니다.
