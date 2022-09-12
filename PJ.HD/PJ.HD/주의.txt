@@ -1,0 +1,8 @@
+ProjectHD_2D
+HandTrackingHD_3D
+ProjectHD_HandTracking_3D
+의 ARD가 주석처리되있을 수 있음 아두이노에 실적용 시 ARD의 주석처리를 해제하기 바람
+
+tensorflow
+opencv-python
+pyserial
